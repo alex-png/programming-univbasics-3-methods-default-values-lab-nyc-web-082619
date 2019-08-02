@@ -14,7 +14,8 @@ Choice" in our Ruby program.
 
 ## Define a Method that Takes in Required and Optional Arguments
 
-We're attending a wedding and the newlyweds-to-be want to know what types of food they should provide at the banquet. Define a method named `meal_choice` that has **three** parameters:
+We're attending a wedding and the newlyweds-to-be want to know what types of food they should provide at the banquet. Define a method named `meal_choice`
+that has **three** parameters:
 
 - Two _required_ parameters for vegetables. Ex: `veg1` and `veg2`
 - And an _optional_ parameter for `protein` with a default value of `meat`
